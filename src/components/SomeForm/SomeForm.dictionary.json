@@ -1,0 +1,11 @@
+{
+  "someForm.fields.title.label": {
+    "en": "Title",
+    "ru": "Заголовок"
+
+  },
+  "someForm.fields.category.label": {
+    "en": "Category",
+    "ru": "Категория"
+  }
+}

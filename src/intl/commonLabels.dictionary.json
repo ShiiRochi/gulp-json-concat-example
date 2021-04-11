@@ -1,0 +1,14 @@
+{
+  "common.labels.submit": {
+    "en": "Submit",
+    "ru": "Отправить"
+  },
+  "common.labels.cancel": {
+    "en": "Cancel",
+    "ru": "Отмена"
+  },
+  "common.labels.apply": {
+    "en": "Apply",
+    "ru": "Применить"
+  }
+}
